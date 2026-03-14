@@ -7,6 +7,9 @@
 <p style="display: inline">
   <!-- Main Language -->
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
+  <!-- Framework -->
+  <img src="https://img.shields.io/badge/LangChain-ffffff?logo=langchain&logoColor=green">
+  
  
 </p>
 
