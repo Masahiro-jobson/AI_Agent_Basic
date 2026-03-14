@@ -1,0 +1,9 @@
+// These are the packages that we need in our Python environment.
+langchain 
+wikipedia 
+langchain-community 
+langchain-openai
+langchain-anthropic
+python-dotenv
+pydantic
+duckduckgo-search
